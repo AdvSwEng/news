@@ -13,4 +13,4 @@ The primary purpose of the course is to learn-by-doing advanced operational data
 
 Each of the techniques will be learned through work on a real project. 
 
-[Draft Syllabus](https://github.com/EvEng/news/blob/master/ee.pdf)
+[Draft Syllabus](https://github.com/AdvSwEng/news/blob/master/ee.pdf)
