@@ -1,4 +1,7 @@
-# Class 2: Monday Jan 15
+# Class 3: Wed Jan 22
+   - Discuss workplans
+
+# Class 2: Wed Jan 15
 
    - Pecording https://drive.google.com/drive/folders/1RJObnYwcpMAjZ5_46LJgBXscg9nxyuJx?usp=sharing
    - Please add an .md file to  https://github.com/AdvSwEng/workplan
