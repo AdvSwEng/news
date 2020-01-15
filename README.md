@@ -1,3 +1,10 @@
+# Class 2: Monday Jan 15
+
+   - Pecording https://drive.google.com/drive/folders/1RJObnYwcpMAjZ5_46LJgBXscg9nxyuJx?usp=sharing
+   - Please add an .md file to  https://github.com/AdvSwEng/workplan
+     descrbing your interests
+
+
 # Class 1: Monday Jan 13
 
    - Please create github ID and and send it to me so that I can add you to the class
