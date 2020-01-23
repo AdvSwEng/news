@@ -1,3 +1,6 @@
+# Class 4: Wed Jan 29
+  - Presentation by [Nick Skuda](mailto:nskuda@vols.utk.edu) on Reinforcement Learning basics, recent advances, and lessons  learned.
+
 # Class 3: Wed Jan 22
    - Discuss workplans
 
