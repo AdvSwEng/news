@@ -1,3 +1,7 @@
+# Class 4: Wed Feb 12 (no class Feb 5) 
+  - Rebecca will give a talk
+  - Anna will bring snacks
+  
 # Class 4: Wed Jan 29
   - Presentation by [Nick Skuda](mailto:nskuda@vols.utk.edu) on Reinforcement Learning basics, recent advances, and lessons  learned.
 
