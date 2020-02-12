@@ -1,4 +1,4 @@
-# Class 4: Wed Feb 12 (no class Feb 5) 
+# Class 5: Wed Feb 12 (no class Feb 5) 
   - Rebecca will give a talk
   - Anna will bring snacks
   
