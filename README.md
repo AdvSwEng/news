@@ -1,4 +1,4 @@
-# Class 6: Proposed time Feb 17 (no class Feb 19) 
+# Class 6: Feb 26 (no class Feb 19) 
 
 # Class 5: Wed Feb 12 (no class Feb 5) 
   - Rebecca will give a talk
