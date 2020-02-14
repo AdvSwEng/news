@@ -1,10 +1,11 @@
 # Class 6: Feb 26 (no class Feb 19) 
   - Christoph ans Allan will present
-  - I will bring bagel+coffe
+  - I will bring bagels+coffe
   
 # Class 5: Wed Feb 12 (no class Feb 5) 
   - Rebecca will give a talk
   - Anna will bring snacks
+  - Discussed WoC: [sign up at](https://docs.google.com/forms/d/1quBIozLEP-ApaTaREr5FIu0HhOKAc4A4WkQngmW8L2g/viewform?edit_requested=true#response=ACYDBNgc-N6oB6DKVugJY3c6uPhH2axDOBiv5VlB3sMj7RCILGjarvUqE-IpE4fTkCi5ITc)
   
 # Class 4: Wed Jan 29
   - Presentation by [Nick Skuda](mailto:nskuda@vols.utk.edu) on Reinforcement Learning basics, recent advances, and lessons  learned.
