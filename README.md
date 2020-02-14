@@ -1,5 +1,7 @@
 # Class 6: Feb 26 (no class Feb 19) 
-
+  - Christoph ans Allan will present
+  - I will bring bagel+coffe
+  
 # Class 5: Wed Feb 12 (no class Feb 5) 
   - Rebecca will give a talk
   - Anna will bring snacks
