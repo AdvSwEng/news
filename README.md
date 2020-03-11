@@ -1,10 +1,10 @@
-# Class
-  https://tennessee.zoom.us/j/2766448345
-  
+# Class Mar 25: 
+   - the class may be online  https://tennessee.zoom.us/j/2766448345
+   - Nick potentially presents
   
   
 # Class 6: Feb 26 (no class Feb 19) 
-  - Christoph ans Allan will present
+  - Christoph and Allan will present
   - I will bring bagels+coffe
   
 # Class 5: Wed Feb 12 (no class Feb 5) 
