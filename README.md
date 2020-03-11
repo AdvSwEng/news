@@ -1,3 +1,8 @@
+# Class
+  https://tennessee.zoom.us/j/2766448345
+  
+  
+  
 # Class 6: Feb 26 (no class Feb 19) 
   - Christoph ans Allan will present
   - I will bring bagels+coffe
