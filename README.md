@@ -1,16 +1,19 @@
 # Class Apr 22:
    - Chad will unveal mysteries of  hidden Markov Model
    - Alex will explain GPUs
-   
+  
+# Class Apr 8: 
+   - Anna may present
+  
 # Class Apr 1: 
    - Dave will talk about memory safety
    - Shan will present
-   - Anna may present
+  
    
 # Class Mar 25: 
    - the class may be online  https://tennessee.zoom.us/j/2766448345
    - Nick potentially presents
-  
+   - Anna may present
   
 # Class 6: Feb 26 (no class Feb 19) 
   - Christoph and Allan will present
