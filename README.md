@@ -15,7 +15,7 @@
    
 # Class Mar 25: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
-   - Nick potentially presents
+   - Nick will give an introduction to the neuromorphic computing, a discussion of the techniques (STDP, Genetic Algorithms, Particle Swarm Optimization, and Temporal Filtering), and finally how he plans on using them towards solving the problems in his research.
   
   
 # Class 6: Feb 26 (no class Feb 19) 
