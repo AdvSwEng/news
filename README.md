@@ -10,7 +10,8 @@
   
 # Class Apr 1:
    - The class will be online  https://tennessee.zoom.us/j/2766448345
-   - Dave will talk about memory safety
+   - [Dave will talk about memory safety](https://tennessee.zoom.us/rec/share/yOwqBez31nFIH5Xor0PVWIUhIoK4eaa8hiAfqfcPzU7h_yfapyWhFATNRsv9SHxt)
+
    
 # Class Mar 25: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
