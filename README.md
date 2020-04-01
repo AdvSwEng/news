@@ -6,12 +6,11 @@
 # Class Apr 8: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
    - Anna will present process mining
+   - Shan will present
   
 # Class Apr 1:
    - The class will be online  https://tennessee.zoom.us/j/2766448345
    - Dave will talk about memory safety
-   - Shan will present
- 
    
 # Class Mar 25: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
