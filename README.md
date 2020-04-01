@@ -6,7 +6,7 @@
 # Class Apr 8: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
    - Anna will present process mining
-   - Shan will present
+   - Shan will present docker tutorial
   
 # Class Apr 1:
    - The class will be online  https://tennessee.zoom.us/j/2766448345
