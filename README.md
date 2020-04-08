@@ -2,11 +2,15 @@
    - The class will be online  https://tennessee.zoom.us/j/2766448345
    - Chad will unveal mysteries of  hidden Markov Model
    - Alex will explain GPUs
-  
+
+# Class Apr 15:
+   - TBD
+   
 # Class Apr 8: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
-   - Anna will present process mining
+   - Anna will present process mining [slides](https://github.com/AdvSwEng/presentations/blob/master/COSC690_process_mining.pptx)
    - Shan will present docker tutorial
+   - [Recording](https://tennessee.zoom.us/rec/share/4OtKE4DWpjpLRYXq9FDZB6QbBL24T6a8gClM-_BYmEzRqzJg3v84BoTSCwCXQAOz)
   
 # Class Apr 1:
    - The class will be online  https://tennessee.zoom.us/j/2766448345
