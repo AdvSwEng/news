@@ -1,3 +1,6 @@
+# Please provide feedback on the class!
+   - [TN Voice](https://utk.campuslabs.com/eval-home/)
+
 # Class Apr 22:
    - The class will be online  https://tennessee.zoom.us/j/2766448345
    - Chad will unveal mysteries of  hidden Markov Model
