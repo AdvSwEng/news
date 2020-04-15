@@ -7,7 +7,7 @@
    - Alex will explain GPUs
 
 # Class Apr 15:
-   - TBD
+   - No presentations
    
 # Class Apr 8: 
    - The class will be online  https://tennessee.zoom.us/j/2766448345
